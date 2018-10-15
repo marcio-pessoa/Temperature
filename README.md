@@ -1,4 +1,4 @@
-# Arduino Temeperature Sensor Library
+# Arduino Temperature Sensor Library
 
 Supported sensors:
 - LM35

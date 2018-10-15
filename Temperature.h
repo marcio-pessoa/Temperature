@@ -1,4 +1,4 @@
-/* Temperature.h - Temeperature Sensor Library
+/* Temperature.h - Temperature Sensor Library
  * 
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none

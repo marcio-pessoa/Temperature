@@ -1,4 +1,4 @@
-/* Temperature.cpp - Temeperature Sensor Library
+/* Temperature.cpp - Temperature Sensor Library
  * 
  */
 
