@@ -16,5 +16,5 @@ void loop() {
   Serial.println(String(sensor_a.read()) + " celsius");
   Serial.println(String(sensor_b.read()) + " celsius");
   Serial.println();
-  delay(2000);  // Wait 2 seconds
+  delay(2000);  // Wait for 2 seconds
 }
